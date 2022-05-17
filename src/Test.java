@@ -5,7 +5,7 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println("Hola donovan");
-        System.out.println("Hola pepe");
+        System.out.println("Hola iñigo");
     }
 }
 
